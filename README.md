@@ -75,9 +75,9 @@ Step 6: Release video capture and destroy all OpenCV windows
 
 
 ## PROGRAM
-#### DEVELOPED BY:
-#### NAME : KALPESH C
-#### REG NO : 212225230121
+#### Developed by:
+#### Name : NAVEEN 
+#### Reg No : 212225240098
 
 ```
 import numpy as np
